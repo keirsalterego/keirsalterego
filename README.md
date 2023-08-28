@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 # 💫 About Me:
 Hello, I'm Manish, a passionate student programmer on a relentless quest for innovation.<br>
 My journey in the world of coding began with a single line and has evolved into a symphony of algorithms and creativity.<br>
@@ -17,6 +18,7 @@ Feel free to personalize it with your own details and experiences.
 <a href="https://instagram.com/vyper.xe" target="blank"><img align="center" src="https://imgs.search.brave.com/NfW7R_MMPq8al7pxv-UuU3fJrD7lydR6AFq2mkRFFcU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWRpZ2l0YWxhZ2Vu/Y3kuY29tLmF1L3dw/LWNvbnRlbnQvdXBs/b2Fkcy9uZXctSW5z/dGFncmFtLWxvZ28t/cG5nLWZ1bGwtY29s/b3VyLWdseXBoLnBu/Zw" alt="vyper.xe" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/6XNwtC7b" target="blank"><img align="center" src="https://imgs.search.brave.com/ch2zmgKKLCSzPo_RKcOlLS9174UE3rc3SszowVxHiCQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/LmNvbS9pbWFnZS1j/ZG4vaW1hZ2VzL2t0/czkyOHBkL3Byb2R1/Y3Rpb24vNWIyNGU0/OWZkODkyODdmZjFl/YjViYmM0Y2Y5M2Ni/MDM4YzMzODRlZi01/MTJ4NTEyLnBuZz93/PTEwODAmcT03Mg" alt="https://discord.gg/6XNwtC7b" height="30" width="40" /></a>
 </div>
+
 # 💻 Tech Stack:  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
