@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hello, I'm Manish, a passionate student programmer on a relentless quest for innovation. My journey in the world of coding began with a single line and has evolved into a symphony of algorithms and creativity.<br>Currently, I'm immersed in my latest project, a labor of love that combines my technical prowess with my boundless curiosity. This endeavor reflects my commitment to pushing boundaries and crafting solutions that stand out in the digital realm.<br>Programming isn't just a skill; it's my canvas for self-expression. As I continue to learn, adapt, and grow, I'm excited to share my evolving story with you.<br><br>Join me on this exhilarating coding adventure, and together, we'll shape the future one line of code at a time.<br><br>Feel free to personalize it with your own details and experiences.
+Hello, I'm Manish,<br>a passionate student programmer on a relentless quest for innovation.<br>My journey in the world of coding began with a single line and has evolved into a symphony of algorithms and creativity.<br>Currently, I'm immersed in my latest project, a labor of love that combines my technical prowess with my boundless curiosity. This endeavor reflects my commitment to pushing boundaries and crafting solutions that stand out in the digital realm.<br>Programming isn't just a skill; it's my canvas for self-expression. As I continue to learn, adapt, and grow, I'm excited to share my evolving story with you.<br>Join me on this exhilarating coding adventure, and together, we'll shape the future one line of code at a time.<br>Feel free to personalize it with your own details and experiences.
 
 
 ## 🌐 Socials:
@@ -19,9 +19,6 @@ Hello, I'm Manish, a passionate student programmer on a relentless quest for inn
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=darkvyper&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
