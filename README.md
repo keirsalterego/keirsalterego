@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hello, I'm Manish,<br>a passionate student programmer on a relentless quest for innovation.<br>My journey in the world of coding began with a single line and has evolved into a symphony of algorithms and creativity.<br>Currently, I'm immersed in my latest project, a labor of love that combines my technical prowess with my boundless curiosity. This endeavor reflects my commitment to pushing boundaries and crafting solutions that stand out in the digital realm.<br>Programming isn't just a skill; it's my canvas for self-expression. As I continue to learn, adapt, and grow, I'm excited to share my evolving story with you.<br>Join me on this exhilarating coding adventure, and together, we'll shape the future one line of code at a time.<br>Feel free to personalize it with your own details and experiences.
+Hello, I'm Manish, a passionate student programmer on a relentless quest for innovation.
+My journey in the world of coding began with a single line and has evolved into a symphony of algorithms and creativity.
+Currently, I'm immersed in my latest project, a labor of love that combines my technical prowess with my boundless curiosity. 
+This endeavor reflects my commitment to pushing boundaries and crafting solutions that stand out in the digital realm.
+Programming isn't just a skill; it's my canvas for self-expression. As I continue to learn, adapt, and grow, I'm excited to share my evolving story with you.
+Join me on this exhilarating coding adventure, and together, we'll shape the future one line of code at a time.
+Feel free to personalize it with your own details and experiences.
 
 
 ## 🌐 Socials:
@@ -17,23 +23,3 @@ Hello, I'm Manish,<br>a passionate student programmer on a relentless quest for 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=darkvyper&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
-<!--
-**darkvyper/darkvyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
