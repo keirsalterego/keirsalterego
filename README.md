@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋! My name is Manish!</h1>
+<img align="center" height="360" width="1920" src="https://github.com/darkvyper/darkvyper/assets/121482214/4d23b2dd-aafe-48f0-8b6f-bc4bf41e6ddf">
+<h1 align="center"><b>Hi 👋! I'm Manish!</b></h1>
+<h3 align="center"><i><b>A passionate front-end Developer <br><img height="30" width="40" src="https://media0.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e478ee6xef73vuxok53d9a913cnkkasc7m8qpgir65b&ep=v1_gifs_search&rid=200w.webp&ct=g"></b></i></h3>
+
+![91779771e0c323b769b5468319754d3a]()
+
 
 <div align="left">
   <img align="right" height="200" src="https://cdn.dribbble.com/users/2453998/screenshots/6005902/smoke.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=darkvyper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darkvyper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <div> <a href="https://github.com/darkvyper" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkvyper&langs_count=8&theme=gotham" alt=darkvyper />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=darkvyper&show_icons=true&locale=en&theme=gotham" alt="darkvyper" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<div align="center">
 
 
   
 
-<h2 align="left">Languages and Tools:</h3>
+<p><h2 align="center"><i><b></i>Languages and Tools:</b></i></h2></p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="13" />
@@ -74,24 +84,18 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
 </div>
 
-<div align="left">
-<br><h2>Contact with me -</h2>
+<p align="left">
+<br><h2><i><b>Contact with me -</b></i></h2>
 <p align="center">
 <a href="https://twitter.com/DarkViper32" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="DarkViper32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mxnish" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mxnish" height="30" width="40" /></a>
 <a href="https://instagram.com/vyper.xe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="vyper.xe" height="30" width="40" /></a>
 </p>
-</div>
+</p>
 
-
-<img src="(https://github.com/darkvyper/darkvyper/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
-<p align="left">- 🔭 I’m currently working on**CSS Projects.**</p>
-
-
-
-<p align="left">- 🌱 I’m currently learning **React.js, Machine Learning & Artificial intelligence <br><br>- 👨‍💻 All of my projects are available at [https://github.ccom/darkvyper)</p>
+<p><b><i>- 🔭 I’m currently working on CSS Projects.<br>
+- 🌱 I’m currently learning React.js, Machine Learning & Artificial intelligence<br>
+- 👨‍💻 All of my projects are available at [https://github.ccom/darkvyper)</b></i></p>
 
 
 <br><br>
