@@ -1,23 +1,19 @@
-<img align="center" height="360" width="1920" src="https://github.com/darkvyper/darkvyper/assets/121482214/4d23b2dd-aafe-48f0-8b6f-bc4bf41e6ddf">
 <h1 align="center"><b>Hi 👋! I'm Manish!</b></h1>
 <h3 align="center"><i><b>A passionate front-end Developer <br><img height="30" width="40" src="https://media0.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e478ee6xef73vuxok53d9a913cnkkasc7m8qpgir65b&ep=v1_gifs_search&rid=200w.webp&ct=g"></b></i></h3>
 
-![91779771e0c323b769b5468319754d3a]()
-
 
 <div align="left">
-  <img align="right" height="200" src="https://cdn.dribbble.com/users/2453998/screenshots/6005902/smoke.gif"  />
+  <img align="right" height="200" width="200" src="https://github.com/darkvyper/darkvyper/assets/121482214/5901a1ab-e5ab-43d7-843c-650f35e62347" style="padding-right: 5px;/>
   <div> <a href="https://github.com/darkvyper" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkvyper&langs_count=8&theme=gotham" alt=darkvyper />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=darkvyper&show_icons=true&locale=en&theme=gotham" alt="darkvyper" /></p>
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <div align="center">
 
 
-  
 
 <p><h2 align="center"><i><b></i>Languages and Tools:</b></i></h2></p>
 <div align="center">
