@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<h2 align="left">Languages & Tools -</h2>
+<h2 align="left">TechStack -</h2>
 
 
 
@@ -34,43 +34,20 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="10" />
+
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="10" />
+
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="redhat logo"  />
-  <img width="10" />
+
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="10" />
@@ -82,7 +59,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
 </div>
 
 
@@ -103,9 +79,9 @@
 
 
 
-<h5 align="left">- 🔭 I’m currently working on**CSS Projects.</h5>
+<h5 align="left">- 🔭 I’m currently working as a Team Mentor for SIH 2023-24 from Future Bhubaneswar School.</h5>
 
-<h5 align="left">- 🌱 I’m currently learning React.js, Machine Learning, Python.<br><br>- 👨‍💻 All of my projects are available at [https://github.ccom/darkvyper](https://github.ccom/darkvyper)</h5>
+<h5 align="left">- 🌱 I’m currently learning the Django framework and looking of more ahead : ) </h5>
 
 
 
