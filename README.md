@@ -12,7 +12,7 @@ I'm ~~a dragon lost in human world~~ trying to find a balance between building s
 - 🔭 🔭 Research-wise, I'm interested in Rust programming (enhancing performance, memory safety, concurrency, etc.) and systems programming (low-level optimizations, embedded systems, etc.).
 - 🚀 I'm learning to build software and systems using Rust and computer vision (large multimodal models, generative models, etc.).
 - 🧐 I'm also exploring tools like [Vue](https://vuejs.org/), [React](https://react.dev/) and [Solid](https://www.solidjs.com/).
-- 👩‍💻 My personal website is [zxh.me](https://keir.vercel.app). It's simple and serious, much like those of other fellowmates.
+- 👩‍💻 My personal website is [keir.me](https://keir.vercel.app). It's simple and serious, much like those of other fellowmates.
 - 🕹️ However, if you wish to see some "interesting" versions, you need to have patience for a while :) <!-- here are my [portfolio](https://portfolio), [dashboard](https://dashboard), and [interactive resume](https://resume).-->
 - 👾 Currently interested in building things in *Minecraft*.
 - 🌭 My dream: `while(sleeping){money++;}`
