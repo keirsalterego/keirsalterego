@@ -1,25 +1,18 @@
-<h1 align="center">Hi, I'm Manish!</h1>
-<h3 align="center">A dumb nerdy guy from Silicon University.</h3>
+### Hey there, you found me :)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manishyoudumb&label=Profile%20views&color=0e75b6&style=flat" alt="manishyoudumb" /> </p>
-
-- All of my projects are available at [https://keir.vercel.app](https://keir.vercel.app)
-
-- 📫 How to reach me : **officiallymanishh@gmail.com**
-
-- ⚡ Fun fact **There's no fun without facts :)**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/manishyoudumb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishyoudumb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mxnish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mxnish" height="30" width="40" /></a>
-<a href="https://instagram.com/mxnish.xe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mxnish.xe" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
- <img align="center" alt="color picker" src="https://i.pinimg.com/564x/30/a9/28/30a928ca9ff511581194a5c2c180b7f4.jpg"/>
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://blog-keir.vercel.app)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4284F3?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=NaXS1_4AAAAJ)
+[![Twitter](https://img.shields.io/badge/Twitter-0F141A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/manishyoudumb)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mxnish)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:officiallymanishh@gmail.com)
 
 
+I'm ~~a dragon lost in human world~~ trying to find a balance between building some dope and engineering. I do machine learning by day and build things for the web by night.
+
+- 🔭 🔭 Research-wise, I'm interested in Rust programming (enhancing performance, memory safety, concurrency, etc.) and systems programming (low-level optimizations, embedded systems, etc.).
+- 🚀 I'm learning to build software and systems using Rust and computer vision (large multimodal models, generative models, etc.).
+- 🧐 I'm also exploring tools like [Vue](https://vuejs.org/), [React](https://react.dev/) and [Solid](https://www.solidjs.com/).
+- 👩‍💻 My personal website is [zxh.me](https://keir.vercel.app). It's simple and serious, much like those of other fellowmates.
+- 🕹️ However, if you wish to see some "interesting" versions, you need to have patience for a while :) <!-- here are my [portfolio](https://portfolio), [dashboard](https://dashboard), and [interactive resume](https://resume).-->
+- 👾 Currently interested in building things in *Minecraft*.
+- 🌭 My dream: `while(sleeping){money++;}`
