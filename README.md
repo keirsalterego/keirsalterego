@@ -15,4 +15,4 @@ I'm ~~a dragon lost in human world~~ trying to find a balance between building s
 - 👩‍💻 My personal website is [keir.me](https://keir.vercel.app). It's simple and serious, much like those of other fellowmates.
 - 🕹️ However, if you wish to see some "interesting" versions, you need to have patience for a while :) <!-- here are my [portfolio](https://portfolio), [dashboard](https://dashboard), and [interactive resume](https://resume).-->
 - 👾 Currently interested in building things in *Minecraft*.
-- 🌭 My dream: `while(sleeping){money++;}`
+- 🌭 Goal : `while(sleeping){money++;}`
