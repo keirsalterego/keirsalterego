@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:officiallymanishh@gmail.com)
 
 
-I'm ~~a dragon lost in human world~~ trying to find a balance between building some dope and engineering. I do machine learning by day and build things for the web by night.
+I'm ~~a dragon lost in human world~~ trying to find a balance between building some dope and engineering. I do build things for the web by day and get immersed in Rust programming by night.
 
 - 🔭 🔭 Research-wise, I'm interested in Rust programming (enhancing performance, memory safety, concurrency, etc.) and systems programming (low-level optimizations, embedded systems, etc.).
 - 🚀 I'm learning to build software and systems using Rust and computer vision (large multimodal models, generative models, etc.).
