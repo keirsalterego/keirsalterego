@@ -16,3 +16,4 @@ I'm ~~a dragon lost in human world~~ trying to find a balance between building s
 - 🕹️ However, if you wish to see some "interesting" versions, you need to have patience for a while :) <!-- here are my [portfolio](https://portfolio), [dashboard](https://dashboard), and [interactive resume](https://resume).-->
 - 👾 Currently interested in building things in *Minecraft*.
 - 🌭 Goal : `while(sleeping){money++;}`
+- ![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d&color=FF4136)
