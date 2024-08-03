@@ -6,6 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mxnish)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:officiallymanishh@gmail.com)
 
+![logo](https://github.com/user-attachments/assets/4237f9da-4ee3-44bd-814d-d106e46196e2)
 
 I'm ~~a dragon lost in human world~~ trying to find a balance between building some dope and engineering. I do build things for the web by day and get immersed in Rust programming by night.
 
@@ -17,3 +18,7 @@ I'm ~~a dragon lost in human world~~ trying to find a balance between building s
 - 👾 Currently interested in building things in *Minecraft*.
 - 🌭 Goal : `while(sleeping){money++;}`
 - ![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d&color=FF4136)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishyoudumb&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishyoudumb"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=manishyoudumb&theme=dark" alt="manishyoudumb"/></p>
+
