@@ -10,15 +10,12 @@
 
 I'm ~~a dragon lost in human world~~ trying to find a balance between building some dope and engineering. I do build things for the web by day and get immersed in Rust programming by night.
 
-- 🔭 🔭 Research-wise, I'm interested in Rust programming (enhancing performance, memory safety, concurrency, etc.) and systems programming (low-level optimizations, embedded systems, etc.).
-- 🚀 I'm learning to build software and systems using Rust and computer vision (large multimodal models, generative models, etc.).
-- 🧐 I'm also exploring tools like [Vue](https://vuejs.org/), [React](https://react.dev/) and [Solid](https://www.solidjs.com/).
-- 👩‍💻 My personal website is [keir.me](https://keir.vercel.app). It's simple and serious, much like those of other fellowmates.
-- 🕹️ However, if you wish to see some "interesting" versions, you need to have patience for a while :) <!-- here are my [portfolio](https://portfolio), [dashboard](https://dashboard), and [interactive resume](https://resume).-->
-- 👾 Currently interested in building things in *Minecraft*.
-- 🌭 Goal : `while(sleeping){money++;}`
+-  Research-wise, I'm interested in enhancing performance, memory safety, concurrency, etc of system using Rust and computer vision (large multimodal models, generative models, etc.).
+-  I'm learning to build decentralized applications (dApps) using Rust and blockchain technology for secure and efficient smart contracts.
+-  My personal website is [keir.me](https://keir.vercel.app). It's simple and serious, much like those of other fellowmates.
+-  Currently interested in building things in *Minecraft*.
+-  Goal : `while(sleeping){money++;}`
 - ![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d&color=FF4136)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishyoudumb&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishyoudumb"/></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=manishyoudumb&theme=dark" alt="manishyoudumb"/></p>
-
