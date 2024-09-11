@@ -16,6 +16,3 @@ I'm ~~a dragon lost in human world~~ trying to find a balance between building s
 -  Currently interested in building things in *Minecraft*.
 -  Goal : `while(sleeping){money++;}`
 - ![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d&color=FF4136)
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/manishyoudumb?theme=dark&font=Noto%20Sans%20Math&ext=heatmap)
-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishyoudumb&theme=dark" alt="manishyoudumb"/>
-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishyoudumb&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishyoudumb"/>
