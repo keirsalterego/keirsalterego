@@ -1,7 +1,6 @@
 ### Hey there, you found me :)
 
-[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://blog-keir.vercel.app)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4284F3?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=NaXS1_4AAAAJ)
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.mxnish.me/posts)
 [![Twitter](https://img.shields.io/badge/Twitter-0F141A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/manishyoudumb)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mxnish)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:officiallymanishh@gmail.com)
