@@ -11,7 +11,7 @@ I'm ~~a dragon lost in human world~~ trying to find a balance between building s
 
 -  Research-wise, I'm interested in enhancing performance, memory safety, concurrency, etc of system using Rust and computer vision (large multimodal models, generative models, etc.).
 -  I'm learning to build decentralized applications (dApps) using Rust and blockchain technology for secure and efficient smart contracts.
--  My personal website is [keir.me](https://keir.vercel.app). It's simple and serious, much like those of other fellowmates.
+-  My personal website is [mxnish.me](https://mxnish.me). It's simple and serious, much like those of other fellowmates.
 -  Currently interested in building things in *Minecraft*.
 -  Goal : `while(sleeping){money++;}`
 - ![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d&color=FF4136)
