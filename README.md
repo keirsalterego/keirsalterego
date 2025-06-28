@@ -16,8 +16,6 @@
 #### Currently interested in :
 - Chasing clutches in *CS2*
 - Goal : `while(sleeping){money++;}`
-- ![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d&color=FF4136)
-
 <div align="left">
   <table>
     <tr>
@@ -27,4 +25,5 @@
     </tr>
   </table>
 </div>
+
 
