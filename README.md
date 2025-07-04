@@ -16,14 +16,16 @@
 #### Currently interested in :
 - Chasing clutches in *CS2*
 - Goal : `while(sleeping){money++;}`
-<div align="left">
+####
+<div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishyoudumb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+      <td align="center">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/manishyoudumb?cardType=level&theme=vue-dark&preferLogin=true" height="180" width="380" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishyoudumb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180" width="380" />
       </td>
     </tr>
   </table>
 </div>
-
-
