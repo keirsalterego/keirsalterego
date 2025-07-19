@@ -21,10 +21,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/manishyoudumb?cardType=level&theme=vue-dark&preferLogin=true" height="180" width="380" />
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/keirsalterego?cardType=level&theme=vue-dark&preferLogin=true" height="180" width="380" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishyoudumb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180" width="380" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keirsalterego&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180" width="380" />
       </td>
     </tr>
   </table>
