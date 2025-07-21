@@ -1,6 +1,6 @@
 ### Hey there, you found me :)
 [![mxnish.me](https://img.shields.io/badge/mxnish.me-6f42c1?style=flat-square&logo=portfolio&logoColor=white)](https://www.mxnish.me)
-[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.blog.mxnish.me)
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://blog.mxnish.me)
 [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://x.com/manishyoudumb)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mxnish)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mxnish@outlook.in)
