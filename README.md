@@ -11,9 +11,9 @@
 - My personal website is [mxnish.me](https://mxnish.me). It's simple and serious, much like those of other fellowmates.
 
 #### Currently working on :
-- [**Dedcore**](https://github.com/manishyoudumb/dedcore)
+- [**Dedcore**](https://github.com/keirsalterego/dedcore)
   *Built in Rust with rayon, sha2/blake3/xxhash-rust, img_hash/blockhash, textdistance/strsim, memmap2, clap, and serde for efficient deduplication.*
-- [**Termino**](https://github.com/manishyoudumb/termino)
+- [**Termino**](https://github.com/keirsalterego/termino)
   *Terminal-based chat app using ratatui (TUI), tokio (async), serde, and rust-crypto for secure global messaging with prior PaneUI.*
 
 #### Currently interested in :
