@@ -22,17 +22,22 @@
 
 ####
 <div align="center">
-  <table>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/keirsalterego?cardType=level&theme=vue-dark&preferLogin=true" height="180" width="380" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keirsalterego&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180" width="380" />
+      </td>
+    </tr>
     <tr>
-      <td align="center">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/keirsalterego?cardType=level&theme=vue-dark&preferLogin=true" height="180" width="380" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keirsalterego&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180" width="380" />
+      <td align="center" colspan="2"> <img src="https://leetcard.jacoblin.cool/keirsalterego?theme=catppuccinMocha&font=Maven%20Pro&ext=heatmap" height="280" />
       </td>
     </tr>
-  </table>
+  </table>
 </div>
+
 
 #### Proof-of-Work
 
