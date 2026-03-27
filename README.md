@@ -24,11 +24,6 @@
      <td>
        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/keirsalterego?cardType=level&theme=vue-dark&preferLogin=true" height="180" width="380" />
      </td>
-     <td>
-  <a href="https://leetcode.com/keirsalterego">
-    <img src="https://leetcode-stats.vercel.app/api?username=keirsalterego&theme=Dark"/>
-  </a>
-    </td>
     </tr>
   </table>
 
