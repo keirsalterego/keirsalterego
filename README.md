@@ -34,14 +34,4 @@
 
 
 
-#### Proof-of-Work
 
-| WORK | DESCRIPTION | GITHUB / LIVE |
-| :-- | :-- | :-- |
-| **scholr.link** | Blink-powered, one-tap Post-to-Fund DApp for student innovation on Solana. Track your impact with Soulbound Patron NFTs. | [GitHub](https://github.com/keirsalterego/scholr.link) - [Live](https://scholr-link.vercel.app) |
-| **Noxy** | A high-performance, extensible Node.js proxy with advanced features like DNS-over-HTTPS, custom routing (Tor/I2P), and SSL pinning for granular traffic control.| [GitHub](https://github.com/keirsalterego/noxy) - [Live](noxy.vercel.app) |
-| **Dedcore** | Advanced file deduplication CLI tool written in **Rust**. Leverages multi-threading (Rayon), multiple hashing algorithms (SHA-256, BLAKE3, xxHash), perceptual image hashing, text similarity analysis, and memory-mapped I/O for large-scale duplicate detection. | [GitHub](https://github.com/keirsalterego/dedcore) - [Live](https://dedcore.live) |
-| **Termino** | Decentralized terminal-based chat application built in **Rust**. Utilizes libp2p for P2P networking, WebRTC for real-time communication, IPFS for decentralized storage, and ratatui for a custom TUI, all with end-to-end encryption. | [GitHub](https://github.com/keirsalterego/termino) - [Live](termino.vercel.app) |
-| **RustyKeir** | Custom programming language interpreter in **Rust** with brutally honest error messages, recursive descent parsing, unary operators, parentheses support, floating-point arithmetic, and a robust test suite to “roast” your code. | [GitHub](https://github.com/keirsalterego/rustykeir) - [Live](rustykeir.vercel.app) |
-| **RustyTasks** | Command-line task manager in **Rust** designed for ruthless efficiency in organizing tasks and workflows via a clean, intuitive CLI interface. | [GitHub](https://github.com/keirsalterego/rustytasks) - [Live](rustytasks.vercel.app) |
-| **nvim-config** | Personalized Neovim setup built on **NvChad**, configured in **Lua**. Features lazy-loaded plugins via Lazy.nvim, Mason-managed LSP servers and formatters, custom key mappings, onedark colorscheme, and tailored settings for Rust, Python, Go, and more. | [GitHub](https://github.com/keirsalterego/nvim-config) |
