@@ -13,7 +13,7 @@
 - [**Vyrox Security**](https://vyrox.dev)
   *Autonomous AI SOC analyst. Heuristics first, LLM when needed, human approval for containment. Open-core execution, private detection logic.*
 - [**KeroxLabs**](https://github.com/keroxlabs) *(hobby)*
-  *Rust-native OS research. Building KeroxOS from bare metal — bootloader, kernel, custom package manager (krx). Learning systems programming the hard way.*
+  *Rust-native red team tooling. Building Kerox from the ground up. Agent core, prompt-injection fuzzer, guardrail recon (krx CLI). **Learning offensive AI the hard way**.*
 
 #### Currently reading
 - *Black Hat Rust* by Sylvain Kerkour
