@@ -2,6 +2,6 @@
 <samp>
 ~ breaking llms · red team · bare-metal systems
 
-[**website**](https://keir.is-a.dev) | [**articles**](https://keir.is-a.dev/articles) | [**vyrox-security**](https://vyrox.dev) | [**x**](https://x.com/keirsalterego) | [**email**](mailto:keirsalterego@gmail.com)
+[**website**](https://keir.is-a.dev) | [**articles**](https://keir.is-a.dev/articles) | [**vyrox-security**](https://vyrox.dev) | [**x**](https://x.com/keirsalterego) | [**email**](mailto:manish@vyrox.dev)
 
 </samp>
