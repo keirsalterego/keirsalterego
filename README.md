@@ -1,4 +1,4 @@
-### Manish. — Offensive Security Engineer && Founder @[Vyrox Security](https://vyrox.dev)
+### Manish. — Offensive Security Engineer
 [![keir.is-a.dev](https://img.shields.io/badge/keir.is%2Da.dev-6f42c1?style=flat-square&logo=portfolio&logoColor=white)](https://keir.is-a.dev)
 [![Vyrox Security](https://img.shields.io/badge/Vyrox_Security-0a0a0a?style=flat-square&logo=shieldsdotio&logoColor=white)](https://vyrox.dev)
 [![X](https://img.shields.io/badge/-000?logo=x&logoColor=white)](https://x.com/keirsalterego)
