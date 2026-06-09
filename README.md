@@ -1,29 +1,7 @@
-### Manish. — Offensive Security Engineer
-[![keir.is-a.dev](https://img.shields.io/badge/keir.is%2Da.dev-6f42c1?style=flat-square&logo=portfolio&logoColor=white)](https://keir.is-a.dev)
-[![Vyrox Security](https://img.shields.io/badge/Vyrox_Security-0a0a0a?style=flat-square&logo=shieldsdotio&logoColor=white)](https://vyrox.dev)
-[![X](https://img.shields.io/badge/-000?logo=x&logoColor=white)](https://x.com/keirsalterego)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mxnish)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:keirsalterego@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/keirsalterego)
+<img src="https://raw.githubusercontent.com/<you>/<you>/main/header.png" alt="header" />
+<samp>
+~ breaking llms · red team · bare-metal systems
 
--> Building memory-safe, autonomous AI SOC infrastructure at **[Vyrox Security](https://vyrox.dev)**.<br>
--> Systems engineer at the machine layer, Rust security tooling, low-level systems, protocol design.
+[**website**](https://keir.is-a.dev) | [**articles**](https://keir.is-a.dev/articles) | [**vyrox**](https://vyrox.dev) | [**x**](https://x.com/keirsalterego) | [**email**](mailto:keirsalterego@gmail.com)
 
-#### Currently building
-- [**Vyrox Security**](https://vyrox.dev)
-  *Autonomous AI SOC analyst. Heuristics first, LLM when needed, human approval for containment. Open-core execution, private detection logic.*
-- [**KeroxLabs**](https://github.com/keroxlabs) *(hobby)*
-  *Rust-native red team tooling. Building Kerox from the ground up. Agent core, prompt-injection fuzzer, guardrail recon (krx CLI). **Learning offensive AI the hard way**.*
-
-#### Currently reading
-- *Black Hat Rust* by Sylvain Kerkour
-
-#### Currently interested in
-- Chasing clutches in *CS2*
-- Goal: `while(sleeping){money++;}`
-
-#### Miscellaneous
-- *keirsalterego* is a fusion of Gaelic and Latin, roughly the dark citadel of my second self
-- Personal site: [keir.is-a.dev](https://keir.is-a.dev)
-
-Always compiling. Always optimising.
+</samp>
