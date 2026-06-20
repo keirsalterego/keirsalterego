@@ -21,7 +21,6 @@
 ### <samp>~$ ls ~/arsenal</samp>
 
 <samp>- **[Vyrox Security](https://vyrox.dev)** &nbsp;— autonomous, auditable AI SOC. acts on EDR alerts, proves every action with a tamper-evident trail.</samp><br>
-<samp>- **[KeroxLabs ~ Arsenal Ground](https://keroxlabs.github.io)** &nbsp;— x86_64 TTY pentest distro + `krx` package manager. building in public, tool by tool.</samp>
 
 ### <samp>~$ cd ~/research</samp>
 
