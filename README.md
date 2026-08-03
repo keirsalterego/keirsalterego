@@ -12,18 +12,3 @@
 &nbsp;[![gmail](https://img.shields.io/badge/gmail-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:keirsalterego@gmail.com)
 
 </div>
-
-### <samp>~$ ls ~/arsenal</samp>
-
-<samp>- **[Vyrox Security](https://vyrox.dev)**</samp> &nbsp;— autonomous, auditable AI SOC on a memory-safe rust core. acts on edr alerts, proves every action with a tamper-evident, hash-chained trail.<br>
-<samp>- **[Identra](https://github.com/IdentraHQ/identra)**</samp> &nbsp;— a desktop canvas for running coding agents, with a memory that survives the session. rust engine, tauri shell.
-
-### <samp>~$ cd ~/research</samp>
-
--<samp> **[keirsalterego/research](https://github.com/keirsalterego/research)**</samp> &nbsp;— lab writeups, notes, and the occasional teardown.
-
----
-
-<div align="center">
-<samp>proof &gt; credentials</samp>
-</div>
